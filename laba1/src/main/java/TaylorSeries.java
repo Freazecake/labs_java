@@ -1,4 +1,4 @@
-package laba1;
+package laba1.src.main.java;
 
 public class TaylorSeries {
 
