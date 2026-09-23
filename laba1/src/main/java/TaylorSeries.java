@@ -1,4 +1,3 @@
-package laba1.src.main.java;
 
 public class TaylorSeries {
 
@@ -25,6 +24,7 @@ public class TaylorSeries {
         java.math.BigDecimal sum = java.math.BigDecimal.ONE;
         java.math.BigDecimal term = java.math.BigDecimal.ONE;
         int n = 1;
+        java.math.BigInteger num = java.math.BigInteger.ONE;
 
         while (term.abs().compareTo(epsilon) >= 0) {
             java.math.BigDecimal denominator = java.math.BigDecimal.valueOf(n);

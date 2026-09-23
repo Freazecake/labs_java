@@ -1,4 +1,3 @@
-package laba1.src.main.java;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

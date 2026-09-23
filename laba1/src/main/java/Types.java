@@ -1,4 +1,3 @@
-package laba1.src.main.java;
 
 import java.util.Scanner;
 import java.util.Formatter;

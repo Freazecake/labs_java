@@ -1,4 +1,3 @@
-package laba1.src.test.java;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -6,8 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.math.BigDecimal;
 
 import org.junit.jupiter.api.Test;
-
-import laba1.src.main.java.TaylorSeries;
 
 class TaylorSeriesTest {
 
