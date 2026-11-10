@@ -1,0 +1,3 @@
+Анна, 20 grade, average: 4.5
+Ольга, 21 grade, average: 4.2
+Мария, 22 grade, average: 4.9
